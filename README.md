@@ -11,5 +11,5 @@ To build:
 To launch:
 
 ```
-# docker run -it --rm rag:v0.0.1
+# docker run -it --rm local-rag:v0.0.1
 ```
